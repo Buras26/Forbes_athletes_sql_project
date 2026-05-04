@@ -1,8 +1,3 @@
--- ============================================================
--- Forbes Athletes DB — Initialization Script
--- Runs automatically on first docker-compose up
--- ============================================================
-
 -- Create analytics schema
 CREATE SCHEMA IF NOT EXISTS analytics;
 
@@ -42,12 +37,7 @@ CREATE TABLE analytics.athletes (
     nationality  VARCHAR(50)  NOT NULL,
     gender       CHAR(1)      NOT NULL CHECK (gender IN ('M','F')),
     is_active    BOOLEAN      NOT NULL DEFAULT TRUE,
-    profile_bio  TEXT,
-    photo_url    VARCHAR(255),
-    height_cm    DECIMAL(5,2),
-    weight_kg    DECIMAL(5,2),
-    extra_attributes JSONB,
-    created_at   TIMESTAMP    NOT NULL DEFAULT CURRENT_TIMESTAMP
+    profile_bio  TEXT
 );
 
 CREATE TABLE analytics.teams (
