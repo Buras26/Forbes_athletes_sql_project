@@ -1,0 +1,81 @@
+award_id,athlete_id,award_name,awarding_body,year_awarded,award_category,prize_money,is_international
+1,1,Ballon d'Or,France Football,2019,Best Player,,TRUE
+2,1,Forbes Highest Paid Athlete #1,Forbes,2023,Financial Achievement,,TRUE
+3,2,Ballon d'Or,France Football,2021,Best Player,,TRUE
+4,2,FIFA Best Men's Player,FIFA,2022,Best Player,,TRUE
+5,3,NBA MVP,NBA,2020,Most Valuable Player,,FALSE
+6,3,NBA Champion,NBA,2020,Championship,,FALSE
+7,4,NBA Champion,NBA,2022,Championship,,FALSE
+8,4,NBA MVP,NBA,2021,Most Valuable Player,,FALSE
+9,7,Grand Slam Winner,Grand Slam Committee,2023,Championship,2500000,TRUE
+10,7,ATP World No. 1,ATP,2023,Ranking Achievement,,TRUE
+11,8,Roland Garros Champion,FFT,2022,Championship,2200000,TRUE
+12,9,Grand Slam Winner,Grand Slam Committee,2017,Championship,2500000,TRUE
+13,11,US Open Champion,USTA,2023,Championship,3600000,TRUE
+14,13,FIFA Best Men's Player,FIFA,2024,Best Player,,TRUE
+15,14,WBC World Champion,WBC,2023,Championship,,TRUE
+16,16,Formula 1 World Champion,FIA,2020,Championship,,TRUE
+17,17,Formula 1 World Champion,FIA,2023,Championship,,TRUE
+18,17,Formula 1 World Champion,FIA,2022,Championship,,TRUE
+19,19,NBA MVP,NBA,2020,Most Valuable Player,,FALSE
+20,19,NBA Champion,NBA,2021,Championship,,FALSE
+21,24,Super Bowl Champion,NFL,2023,Championship,,FALSE
+22,24,NFL MVP,NFL,2022,Most Valuable Player,2000000,FALSE
+23,36,ESPY Award - Best Athlete,ESPN,2023,Recognition,,FALSE
+24,43,NBA Champion,NBA,2024,Championship,,FALSE
+25,43,NBA Finals MVP,NBA,2024,Most Valuable Player,,FALSE
+26,50,NBA MVP,NBA,2022,Most Valuable Player,,FALSE
+27,50,NBA Champion,NBA,2023,Championship,,FALSE
+28,56,Roland Garros Champion,FFT,2024,Championship,2200000,TRUE
+29,57,Australian Open Champion,Tennis Australia,2024,Championship,2800000,TRUE
+30,58,Wimbledon Champion,All England Club,2023,Championship,3000000,TRUE
+31,65,Masters Champion,Augusta National,2024,Championship,3600000,TRUE
+32,69,IBF World Champion,IBF,2024,Championship,,TRUE
+33,50,Australian Open Champion,Tennis Australia,2020,Championship,2800000,TRUE
+34,28,Super Bowl Champion,NFL,2024,Championship,,FALSE
+35,16,Formula 1 World Champion,FIA,2023,Championship,,TRUE
+36,90,WBC World Champion,WBC,2018,Championship,,TRUE
+37,105,Wimbledon Champion,All England Club,2019,Championship,3000000,TRUE
+38,7,ATP World No. 1,ATP,2024,Ranking Achievement,,TRUE
+39,43,UFC Champion,UFC,2017,Championship,,FALSE
+40,27,Sports Illustrated Sportsperson of Year,Sports Illustrated,2021,Recognition,,FALSE
+41,15,US Open Golf Champion,USGA,2018,Championship,3000000,TRUE
+42,74,NBA MVP,NBA,2020,Most Valuable Player,,FALSE
+43,24,US Open Golf Champion,USGA,2024,Championship,3000000,TRUE
+44,70,NFL MVP,NFL,2020,Most Valuable Player,2000000,FALSE
+45,12,Australian Open Champion,Tennis Australia,2016,Championship,2800000,TRUE
+46,64,NBA Champion,NBA,2021,Championship,,FALSE
+47,89,Roland Garros Champion,FFT,2016,Championship,2200000,TRUE
+48,33,UEFA Champions League Winner,UEFA,2015,Championship,,TRUE
+49,110,Roland Garros Champion,FFT,2017,Championship,2200000,TRUE
+50,72,Masters Champion,Augusta National,2018,Championship,3600000,TRUE
+51,36,Australian Open Champion,Tennis Australia,2016,Championship,2800000,TRUE
+52,71,Wimbledon Champion,All England Club,2023,Championship,3000000,TRUE
+53,100,US Open Champion,USTA,2024,Championship,3600000,TRUE
+54,46,PGA Championship Winner,PGA of America,2023,Championship,3000000,TRUE
+55,1,Laureus World Sports Award,Laureus,2021,Recognition,,TRUE
+56,103,Super Bowl MVP,NFL,2024,Most Valuable Player,,FALSE
+57,21,Masters Champion,Augusta National,2021,Championship,3600000,TRUE
+58,115,Australian Open Champion,Tennis Australia,2022,Championship,2800000,TRUE
+59,82,ESPY Award - Best Athlete,ESPN,2021,Recognition,,FALSE
+60,31,NBA Finals MVP,NBA,2017,Most Valuable Player,,FALSE
+61,117,US Open Golf Champion,USGA,2017,Championship,3000000,TRUE
+62,62,Masters Champion,Augusta National,2022,Championship,3600000,TRUE
+63,17,NBA Champion,NBA,2023,Championship,,FALSE
+64,66,US Open Golf Champion,USGA,2016,Championship,3000000,TRUE
+65,63,Sports Illustrated Sportsperson of Year,Sports Illustrated,2018,Recognition,,FALSE
+66,118,Australian Open Champion,Tennis Australia,2022,Championship,2800000,TRUE
+67,60,FIFA Best Men's Player,FIFA,2017,Best Player,,TRUE
+68,83,PGA Championship Winner,PGA of America,2020,Championship,3000000,TRUE
+69,25,NBA MVP,NBA,2024,Most Valuable Player,,FALSE
+70,78,Roland Garros Champion,FFT,2016,Championship,2200000,TRUE
+71,99,NBA MVP,NBA,2020,Most Valuable Player,,FALSE
+72,3,Formula 1 World Champion,FIA,2019,Championship,,TRUE
+73,6,FIFA Best Men's Player,FIFA,2023,Best Player,,TRUE
+74,73,NBA Champion,NBA,2016,Championship,,FALSE
+75,13,Wimbledon Champion,All England Club,2019,Championship,3000000,TRUE
+76,77,Wimbledon Champion,All England Club,2019,Championship,3000000,TRUE
+77,49,ATP World No. 1,ATP,2022,Ranking Achievement,,TRUE
+78,23,Ballon d'Or,France Football,2017,Best Player,,TRUE
+79,87,NBA Champion,NBA,2024,Championship,,FALSE
+80,95,Roland Garros Champion,FFT,2015,Championship,2200000,TRUE

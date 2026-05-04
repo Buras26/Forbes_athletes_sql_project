@@ -1,0 +1,19 @@
+# Environment variables — NEVER commit this
+.env
+
+# PostgreSQL data volume (if mapped locally)
+postgres_data/
+pgadmin_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

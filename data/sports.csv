@@ -1,0 +1,11 @@
+sport_id,sport_name,category,avg_career_years,global_popularity_score
+1,American Football,team,9,8.5
+2,Basketball,team,14,9.2
+3,Soccer,team,15,9.8
+4,Tennis,individual,18,8.7
+5,Golf,individual,22,7.8
+6,Formula 1,individual,12,8.1
+7,Boxing,individual,15,8.0
+8,MMA,individual,10,7.5
+9,Baseball,team,12,7.2
+10,Cricket,team,15,7.6

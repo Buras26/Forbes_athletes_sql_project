@@ -1,0 +1,81 @@
+agent_id,athlete_id,agent_name,agency_name,commission_rate,contract_start,years_represented,total_deals_managed,email
+1,1,Aaron Mintz,Creative Artists Agency,4.0,2014-04-01,10,14,agent1@creativeartistsagencysports.com
+2,2,SFX Sports,SFX Entertainment,4.0,2017-01-01,7,10,agent2@sfxentertainmentsports.com
+3,3,Ali Abdelaziz,Dominance MMA Management,15.0,2015-02-01,9,5,agent3@dominancemmamanagementsports.com
+4,4,Al Haymon,Premier Boxing Champions,10.0,2017-10-01,7,22,agent4@premierboxingchampionssports.com
+5,5,CAA Sports,Creative Artists Agency,4.0,2017-06-01,7,27,agent5@creativeartistsagencysports.com
+6,6,Eddie Hearn,Matchroom Boxing,10.0,2021-10-01,3,11,agent6@matchroomboxingsports.com
+7,7,Essentially Sports Group,ESG,5.0,2012-09-01,12,43,agent7@esgsports.com
+8,8,Bob Arum,Top Rank,10.0,2022-08-01,2,45,agent8@topranksports.com
+9,9,Bob Arum,Top Rank,10.0,2012-12-01,12,23,agent9@topranksports.com
+10,10,Jonathan Barnett,SEG Football,8.0,2022-10-01,2,45,agent10@segfootballsports.com
+11,11,WME Sports,William Morris Endeavor,4.5,2016-07-01,8,17,agent11@williammorrisendeavorsports.com
+12,12,Octavio Jimenez,PBC Boxing,10.0,2015-09-01,9,5,agent12@pbcboxingsports.com
+13,13,IMG Sports,IMG Academy,5.0,2017-12-01,7,20,agent13@imgacademysports.com
+14,14,Lagardere Sports,Lagardere Group,5.0,2011-03-01,13,4,agent14@lagarderegroupsports.com
+15,15,CAA Sports,Creative Artists Agency,4.0,2020-12-01,4,22,agent15@creativeartistsagencysports.com
+16,16,Ali Abdelaziz,Dominance MMA Management,15.0,2020-02-01,4,44,agent16@dominancemmamanagementsports.com
+17,17,Ali Abdelaziz,Dominance MMA Management,15.0,2011-04-01,13,42,agent17@dominancemmamanagementsports.com
+18,18,Ali Abdelaziz,Dominance MMA Management,15.0,2019-01-01,5,39,agent18@dominancemmamanagementsports.com
+19,19,Dana White,UFC / Endeavor,15.0,2013-08-01,11,35,agent19@ufcendeavorsports.com
+20,20,Jorge Mendes,Gestifute,10.0,2011-11-01,13,37,agent20@gestifutesports.com
+21,21,Mark Steinberg,Excel Sports Management,4.5,2010-05-01,14,16,agent21@excelsportsmanagementsports.com
+22,22,Rich Paul,Klutch Sports Group,4.0,2021-10-01,3,31,agent22@klutchsportsgroupsports.com
+23,23,Jonathan Barnett,SEG Football,8.0,2022-09-01,2,41,agent23@segfootballsports.com
+24,24,Todd France,Excel Sports Management,4.0,2016-10-01,8,5,agent24@excelsportsmanagementsports.com
+25,25,Eddie Hearn,Matchroom Boxing,10.0,2010-06-01,14,30,agent25@matchroomboxingsports.com
+26,26,Mark Steinberg,Excel Sports Management,4.5,2016-01-01,8,36,agent26@excelsportsmanagementsports.com
+27,27,Todd France,Excel Sports Management,4.0,2016-05-01,8,8,agent27@excelsportsmanagementsports.com
+28,28,Pini Zahavi,Independent,10.0,2011-09-01,13,13,agent28@independentsports.com
+29,29,Aaron Mintz,Creative Artists Agency,4.0,2012-03-01,12,19,agent29@creativeartistsagencysports.com
+30,30,Essentially Sports Group,ESG,5.0,2011-03-01,13,22,agent30@esgsports.com
+31,31,Al Haymon,Premier Boxing Champions,10.0,2020-03-01,4,6,agent31@premierboxingchampionssports.com
+32,32,WME Sports,William Morris Endeavor,4.5,2015-03-01,9,4,agent32@williammorrisendeavorsports.com
+33,33,Octagon Sports,Octagon,4.5,2010-05-01,14,27,agent33@octagonsports.com
+34,34,Pini Zahavi,Independent,10.0,2015-03-01,9,29,agent34@independentsports.com
+35,35,Todd France,Excel Sports Management,4.0,2014-07-01,10,10,agent35@excelsportsmanagementsports.com
+36,36,Mino Raiola,Raiola Sports,10.0,2013-04-01,11,41,agent36@raiolasportssports.com
+37,37,CAA Sports,Creative Artists Agency,4.0,2013-08-01,11,35,agent37@creativeartistsagencysports.com
+38,38,Essentially Sports Group,ESG,5.0,2018-07-01,6,10,agent38@esgsports.com
+39,39,Leon Rose,CAA Sports,4.5,2010-06-01,14,32,agent39@caasportssports.com
+40,40,Ali Abdelaziz,Dominance MMA Management,15.0,2016-02-01,8,33,agent40@dominancemmamanagementsports.com
+41,41,Jorge Mendes,Gestifute,10.0,2016-11-01,8,17,agent41@gestifutesports.com
+42,42,Jorge Mendes,Gestifute,10.0,2014-09-01,10,40,agent42@gestifutesports.com
+43,43,IMG Sports,IMG Academy,5.0,2011-04-01,13,38,agent43@imgacademysports.com
+44,44,Lagardere Sports,Lagardere Group,5.0,2022-03-01,2,22,agent44@lagarderegroupsports.com
+45,45,CAA Sports,Creative Artists Agency,4.0,2016-08-01,8,8,agent45@creativeartistsagencysports.com
+46,46,Lagardere Sports,Lagardere Group,5.0,2018-04-01,6,12,agent46@lagarderegroupsports.com
+47,47,David Falk,FAME Sports,4.5,2018-03-01,6,18,agent47@famesportssports.com
+48,48,Ali Abdelaziz,Dominance MMA Management,15.0,2016-09-01,8,31,agent48@dominancemmamanagementsports.com
+49,49,Mino Raiola,Raiola Sports,10.0,2010-08-01,14,42,agent49@raiolasportssports.com
+50,50,Aaron Mintz,Creative Artists Agency,4.0,2020-03-01,4,3,agent50@creativeartistsagencysports.com
+51,51,Mino Raiola,Raiola Sports,10.0,2017-05-01,7,41,agent51@raiolasportssports.com
+52,52,Leon Rose,CAA Sports,4.5,2020-07-01,4,25,agent52@caasportssports.com
+53,53,Lagardere Sports,Lagardere Group,5.0,2013-10-01,11,35,agent53@lagarderegroupsports.com
+54,54,Aaron Mintz,Creative Artists Agency,4.0,2010-03-01,14,37,agent54@creativeartistsagencysports.com
+55,55,CAA Sports,Creative Artists Agency,4.0,2011-05-01,13,8,agent55@creativeartistsagencysports.com
+56,56,Octavio Jimenez,PBC Boxing,10.0,2021-02-01,3,11,agent56@pbcboxingsports.com
+57,57,SFX Sports,SFX Entertainment,4.0,2018-05-01,6,30,agent57@sfxentertainmentsports.com
+58,58,Bill Duffy,BDA Sports Management,4.0,2019-09-01,5,23,agent58@bdasportsmanagementsports.com
+59,59,IMG Sports,IMG Academy,5.0,2015-11-01,9,19,agent59@imgacademysports.com
+60,60,Essentially Sports Group,ESG,5.0,2021-08-01,3,20,agent60@esgsports.com
+61,61,Rich Paul,Klutch Sports Group,4.0,2020-06-01,4,24,agent61@klutchsportsgroupsports.com
+62,62,Bill Duffy,BDA Sports Management,4.0,2017-10-01,7,24,agent62@bdasportsmanagementsports.com
+63,63,Jorge Mendes,Gestifute,10.0,2021-03-01,3,44,agent63@gestifutesports.com
+64,64,Jorge Mendes,Gestifute,10.0,2019-08-01,5,3,agent64@gestifutesports.com
+65,65,Jorge Mendes,Gestifute,10.0,2020-03-01,4,29,agent65@gestifutesports.com
+66,66,Ali Abdelaziz,Dominance MMA Management,15.0,2021-12-01,3,34,agent66@dominancemmamanagementsports.com
+67,67,Essentially Sports Group,ESG,5.0,2016-09-01,8,8,agent67@esgsports.com
+68,68,Lagardere Sports,Lagardere Group,5.0,2020-02-01,4,37,agent68@lagarderegroupsports.com
+69,69,Jorge Mendes,Gestifute,10.0,2020-08-01,4,10,agent69@gestifutesports.com
+70,70,David Falk,FAME Sports,4.5,2016-10-01,8,25,agent70@famesportssports.com
+71,71,Octavio Jimenez,PBC Boxing,10.0,2012-12-01,12,3,agent71@pbcboxingsports.com
+72,72,Pini Zahavi,Independent,10.0,2017-06-01,7,15,agent72@independentsports.com
+73,73,Bob Arum,Top Rank,10.0,2010-04-01,14,4,agent73@topranksports.com
+74,74,Essentially Sports Group,ESG,5.0,2014-11-01,10,25,agent74@esgsports.com
+75,75,Bill Duffy,BDA Sports Management,4.0,2011-10-01,13,43,agent75@bdasportsmanagementsports.com
+76,76,Aaron Mintz,Creative Artists Agency,4.0,2022-12-01,2,17,agent76@creativeartistsagencysports.com
+77,77,Rich Paul,Klutch Sports Group,4.0,2017-06-01,7,5,agent77@klutchsportsgroupsports.com
+78,78,Leon Rose,CAA Sports,4.5,2017-12-01,7,41,agent78@caasportssports.com
+79,79,Bill Duffy,BDA Sports Management,4.0,2010-04-01,14,43,agent79@bdasportsmanagementsports.com
+80,80,Octavio Jimenez,PBC Boxing,10.0,2011-05-01,13,39,agent80@pbcboxingsports.com

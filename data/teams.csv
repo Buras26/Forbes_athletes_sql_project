@@ -1,0 +1,61 @@
+team_id,team_name,sport_id,country,city,founded_year,market_value_usd,is_active
+1,Kansas City Chiefs,1,USA,Kansas City,1960,4700000000,TRUE
+2,Dallas Cowboys,1,USA,Dallas,1960,9200000000,TRUE
+3,Philadelphia Eagles,1,USA,Philadelphia,1933,5100000000,TRUE
+4,Buffalo Bills,1,USA,Buffalo,1960,3900000000,TRUE
+5,Cincinnati Bengals,1,USA,Cincinnati,1968,3000000000,TRUE
+6,Baltimore Ravens,1,USA,Baltimore,1996,4200000000,TRUE
+7,San Francisco 49ers,1,USA,San Francisco,1946,5800000000,TRUE
+8,Los Angeles Rams,1,USA,Los Angeles,1936,6500000000,TRUE
+9,Houston Texans,1,USA,Houston,2002,4900000000,TRUE
+10,New York Giants,1,USA,New York,1925,6200000000,TRUE
+11,Pittsburgh Steelers,1,USA,Pittsburgh,1933,4400000000,TRUE
+12,Cleveland Browns,1,USA,Cleveland,1946,3700000000,TRUE
+13,Los Angeles Lakers,2,USA,Los Angeles,1947,6900000000,TRUE
+14,Golden State Warriors,2,USA,San Francisco,1946,7700000000,TRUE
+15,Boston Celtics,2,USA,Boston,1946,4700000000,TRUE
+16,Miami Heat,2,USA,Miami,1988,3500000000,TRUE
+17,Milwaukee Bucks,2,USA,Milwaukee,1968,3200000000,TRUE
+18,Dallas Mavericks,2,USA,Dallas,1980,3200000000,TRUE
+19,Phoenix Suns,2,USA,Phoenix,1968,4100000000,TRUE
+20,Philadelphia 76ers,2,USA,Philadelphia,1946,3800000000,TRUE
+21,Denver Nuggets,2,USA,Denver,1967,3100000000,TRUE
+22,Oklahoma City Thunder,2,USA,Oklahoma City,1967,2700000000,TRUE
+23,New Orleans Pelicans,2,USA,New Orleans,2002,2500000000,TRUE
+24,New York Knicks,2,USA,New York,1946,6500000000,TRUE
+25,Los Angeles Clippers,2,USA,Los Angeles,1970,4000000000,TRUE
+26,Indiana Pacers,2,USA,Indianapolis,1967,2400000000,TRUE
+27,Real Madrid,3,Spain,Madrid,1902,6200000000,TRUE
+28,FC Barcelona,3,Spain,Barcelona,1899,4800000000,TRUE
+29,Manchester City,3,England,Manchester,1880,5100000000,TRUE
+30,Paris Saint-Germain,3,France,Paris,1970,3600000000,TRUE
+31,Liverpool FC,3,England,Liverpool,1892,4900000000,TRUE
+32,Bayern Munich,3,Germany,Munich,1900,4600000000,TRUE
+33,Chelsea FC,3,England,London,1905,3800000000,TRUE
+34,Manchester United,3,England,Manchester,1878,5800000000,TRUE
+35,Juventus,3,Italy,Turin,1897,1800000000,TRUE
+36,Atletico Madrid,3,Spain,Madrid,1903,2100000000,TRUE
+37,Arsenal FC,3,England,London,1886,3500000000,TRUE
+38,Tottenham Hotspur,3,England,London,1882,2900000000,TRUE
+39,Borussia Dortmund,3,Germany,Dortmund,1909,1200000000,TRUE
+40,Al Nassr FC,3,Saudi Arabia,Riyadh,1955,800000000,TRUE
+41,Al Hilal SFC,3,Saudi Arabia,Riyadh,1957,750000000,TRUE
+42,Inter Miami CF,3,USA,Fort Lauderdale,2018,900000000,TRUE
+43,Bayer Leverkusen,3,Germany,Leverkusen,1904,1100000000,TRUE
+44,Newcastle United,3,England,Newcastle,1892,2300000000,TRUE
+45,Red Bull Racing,6,Austria,Milton Keynes,2005,1500000000,TRUE
+46,Scuderia Ferrari,6,Italy,Maranello,1950,1800000000,TRUE
+47,Mercedes-AMG Petronas F1,6,Germany,Brackley,1954,1600000000,TRUE
+48,McLaren F1 Team,6,UK,Woking,1966,900000000,TRUE
+49,Aston Martin Aramco,6,UK,Silverstone,2018,600000000,TRUE
+50,Williams Racing,6,UK,Grove,1977,300000000,TRUE
+51,Los Angeles Dodgers,9,USA,Los Angeles,1883,4800000000,TRUE
+52,Los Angeles Angels,9,USA,Anaheim,1961,2100000000,TRUE
+53,New York Yankees,9,USA,New York,1903,7100000000,TRUE
+54,Toronto Blue Jays,9,Canada,Toronto,1977,1500000000,TRUE
+55,India National Cricket,10,India,Mumbai,1928,500000000,TRUE
+56,England & Wales Cricket,10,England,London,1909,300000000,TRUE
+57,Cricket Australia,10,Australia,Melbourne,1905,250000000,TRUE
+58,Pakistan Cricket Board,10,Pakistan,Lahore,1948,100000000,TRUE
+59,LIV Golf - Crushers GC,5,USA,Various,2021,200000000,TRUE
+60,LIV Golf - Fireballs GC,5,USA,Various,2021,200000000,TRUE

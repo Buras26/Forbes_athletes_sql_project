@@ -1,0 +1,321 @@
+endorsement_id,athlete_id,brand_name,deal_value_usd,start_date,end_date,category,is_exclusive,contract_status
+1,1,TAG Heuer,34622384.68,2023-03-01,2027-05-01,Watches,FALSE,active
+2,1,EA Sports,17572827.5,2023-07-01,2027-02-01,Gaming,FALSE,active
+3,1,Gucci,24646164.88,2021-06-01,2022-05-01,Luxury,FALSE,expired
+4,2,FTX,13153174.89,2020-10-01,2025-05-01,Finance,FALSE,active
+5,2,Red Bull,,2018-08-01,2019-03-01,Beverages,FALSE,terminated
+6,2,American Express,12297395.36,2023-05-01,2025-11-01,Finance,FALSE,active
+7,3,Apple,24416984.8,2021-03-01,2027-07-01,Technology,FALSE,active
+8,3,Crypto.com,23909961.1,2023-04-01,2026-10-01,Finance,FALSE,expired
+9,3,DraftKings,11707094.12,2021-09-01,2027-02-01,Sports Betting,FALSE,active
+10,4,TAG Heuer,38057763.2,2022-03-01,2024-09-01,Watches,FALSE,expired
+11,4,Under Armour,21627608.29,2023-10-01,2025-09-01,Apparel,FALSE,active
+12,4,Gillette,7917268.54,2021-08-01,2025-09-01,Personal Care,FALSE,active
+13,5,Samsung,,2019-10-01,2025-07-01,Technology,FALSE,active
+14,5,Adidas,31912797.36,2018-08-01,2027-07-01,Apparel,FALSE,active
+15,5,BMW,16415250.0,2021-06-01,2028-07-01,Automotive,FALSE,active
+16,6,Emporio Armani,6797938.84,2018-03-01,,Fashion,FALSE,active
+17,6,Hugo Boss,14840432.83,2018-05-01,2028-09-01,Fashion,FALSE,active
+18,6,Titleist,3688992.2,2019-05-01,2022-02-01,Golf Equipment,FALSE,expired
+19,7,Puma,19379078.49,2018-04-01,2019-02-01,Apparel,FALSE,expired
+20,7,Hugo Boss,11954581.11,2023-12-01,,Fashion,FALSE,active
+21,7,Mercedes-Benz,10792221.09,2018-03-01,2027-04-01,Automotive,FALSE,active
+22,8,L'Oreal,10635229.27,2019-05-01,2022-09-01,Personal Care,FALSE,expired
+23,8,Beats by Dre,9157820.55,2018-09-01,2026-11-01,Technology,FALSE,active
+24,8,Netflix,,2020-11-01,2028-09-01,Entertainment,FALSE,active
+25,9,Mercedes-Benz,10323451.41,2021-04-01,2023-12-01,Automotive,FALSE,expired
+26,9,Louis Vuitton,20598331.48,2018-09-01,2028-09-01,Luxury,FALSE,active
+27,9,Samsung,14578400.01,2020-11-01,,Technology,FALSE,active
+28,10,Gatorade,10328759.81,2018-02-01,2021-12-01,Beverages,FALSE,expired
+29,10,Under Armour,15043054.7,2019-06-01,2020-01-01,Apparel,FALSE,terminated
+30,10,Subway,2726567.49,2023-02-01,2028-04-01,Food,FALSE,active
+31,11,Pepsi,13968713.63,2021-08-01,2027-05-01,Beverages,FALSE,active
+32,11,BMW,9076899.24,2018-12-01,2027-04-01,Automotive,FALSE,active
+33,11,Red Bull,6362685.77,2019-12-01,2020-05-01,Beverages,FALSE,expired
+34,12,Gillette,5828365.29,2019-07-01,2026-08-01,Personal Care,FALSE,active
+35,12,Procter & Gamble,10203188.86,2021-12-01,2028-08-01,Personal Care,FALSE,active
+36,12,Mercedes-Benz,13462316.36,2023-09-01,2026-09-01,Automotive,FALSE,active
+37,13,Under Armour,,2023-01-01,2028-03-01,Apparel,FALSE,active
+38,13,Callaway,4617875.22,2018-04-01,,Golf Equipment,FALSE,active
+39,13,Puma,19652743.1,2021-11-01,2025-01-01,Apparel,FALSE,active
+40,14,Mercedes-Benz,11470632.35,2020-01-01,,Automotive,FALSE,active
+41,14,Nike,24667062.53,2019-10-01,2027-06-01,Apparel,TRUE,active
+42,14,Adidas,24714928.5,2022-04-01,2026-05-01,Apparel,TRUE,active
+43,15,Porsche,12647504.68,2021-01-01,2025-12-01,Automotive,FALSE,active
+44,15,Puma,17998300.72,2020-10-01,2025-04-01,Apparel,FALSE,active
+45,15,New Balance,14010876.68,2021-05-01,2025-11-01,Apparel,FALSE,active
+46,16,Titleist,3098705.34,2020-01-01,2023-03-01,Golf Equipment,FALSE,expired
+47,16,L'Oreal,10513526.82,2021-02-01,2022-03-01,Personal Care,FALSE,terminated
+48,16,Hugo Boss,11729686.5,2021-11-01,2027-07-01,Fashion,FALSE,active
+49,17,Hublot,18327293.89,2018-07-01,2019-06-01,Watches,FALSE,expired
+50,17,New Balance,12038765.57,2022-07-01,2023-01-01,Apparel,FALSE,terminated
+51,17,TaylorMade,7353553.26,2021-08-01,2023-09-01,Golf Equipment,FALSE,expired
+52,18,FTX,7558626.86,2018-10-01,2019-04-01,Finance,FALSE,terminated
+53,18,Visa,10278651.2,2019-07-01,2026-12-01,Finance,FALSE,active
+54,18,Dior,16328402.74,2020-08-01,2021-05-01,Luxury,FALSE,terminated
+55,19,Rolex,17810876.75,2022-09-01,,Watches,TRUE,active
+56,19,Hublot,16767707.83,2021-01-01,2022-07-01,Watches,FALSE,terminated
+57,19,New Balance,10408496.7,2022-04-01,2026-11-01,Apparel,FALSE,active
+58,20,Hublot,13318271.37,2019-07-01,2020-07-01,Watches,FALSE,terminated
+59,20,Subway,2924442.57,2020-05-01,2023-11-01,Food,FALSE,expired
+60,20,Samsung,15705925.59,2021-02-01,2023-01-01,Technology,FALSE,expired
+61,21,BMW,4719559.82,2021-06-01,2026-05-01,Automotive,FALSE,active
+62,21,EA Sports,6989115.69,2020-03-01,2027-05-01,Gaming,FALSE,active
+63,21,DraftKings,3582256.15,2019-06-01,2027-07-01,Sports Betting,FALSE,active
+64,22,L'Oreal,7189059.7,2022-01-01,2028-12-01,Personal Care,FALSE,active
+65,22,Gatorade,7988427.61,2018-07-01,2028-03-01,Beverages,FALSE,active
+66,22,Procter & Gamble,3647074.09,2023-07-01,2025-08-01,Personal Care,FALSE,active
+67,23,Head,3335918.5,2023-07-01,2025-06-01,Sports Equipment,FALSE,active
+68,23,Procter & Gamble,5643039.41,2018-02-01,2021-11-01,Personal Care,FALSE,expired
+69,23,BMW,4620035.28,2018-10-01,2028-06-01,Automotive,FALSE,active
+70,24,Visa,3594426.23,2023-09-01,2026-08-01,Finance,FALSE,active
+71,24,Rolex,12630632.09,2023-09-01,2025-01-01,Watches,TRUE,expired
+72,24,Nike,16431483.31,2018-02-01,2026-06-01,Apparel,TRUE,active
+73,25,Pepsi,6889801.78,2023-12-01,2027-02-01,Beverages,FALSE,active
+74,25,Callaway,4025464.84,2020-11-01,2026-12-01,Golf Equipment,FALSE,active
+75,25,Head,2436133.08,2022-07-01,2026-07-01,Sports Equipment,FALSE,active
+76,26,Dior,,2022-04-01,,Luxury,FALSE,active
+77,26,FanDuel,2029592.21,2023-02-01,2025-09-01,Sports Betting,FALSE,active
+78,26,Hugo Boss,5629924.56,2020-11-01,2027-10-01,Fashion,FALSE,active
+79,27,BMW,4591698.55,2022-03-01,2027-10-01,Automotive,FALSE,active
+80,27,Procter & Gamble,5152385.29,2019-05-01,2026-06-01,Personal Care,FALSE,active
+81,27,TAG Heuer,10486598.96,2019-10-01,2028-03-01,Watches,FALSE,active
+82,28,Titleist,2709825.15,2019-03-01,2020-08-01,Golf Equipment,FALSE,terminated
+83,28,Porsche,8516459.87,2018-08-01,2019-07-01,Automotive,FALSE,expired
+84,28,Dior,14110632.72,2021-07-01,2028-07-01,Luxury,FALSE,active
+85,29,American Express,,2019-05-01,2027-04-01,Finance,FALSE,active
+86,29,Babolat,1936417.95,2023-08-01,,Sports Equipment,FALSE,active
+87,29,Gucci,14176017.25,2020-09-01,2028-09-01,Luxury,FALSE,active
+88,30,Visa,6205381.98,2018-08-01,2019-06-01,Finance,FALSE,terminated
+89,30,Rolex,16621996.25,2018-04-01,2021-10-01,Watches,TRUE,expired
+90,30,Porsche,9966292.18,2021-03-01,2026-04-01,Automotive,FALSE,active
+91,31,Under Armour,7993684.78,2019-06-01,2027-05-01,Apparel,FALSE,active
+92,31,L'Oreal,7009589.38,2023-02-01,2025-01-01,Personal Care,FALSE,expired
+93,31,2K Sports,5377458.68,2019-12-01,2020-03-01,Gaming,FALSE,expired
+94,32,Beats by Dre,5963503.75,2023-05-01,2028-07-01,Technology,FALSE,active
+95,32,Red Bull,4300883.29,2018-07-01,2027-12-01,Beverages,FALSE,active
+96,32,Emporio Armani,4676284.7,2020-10-01,2025-12-01,Fashion,FALSE,active
+97,33,FanDuel,3300212.48,2021-04-01,2026-08-01,Sports Betting,FALSE,active
+98,33,Hugo Boss,8141718.09,2022-03-01,2028-06-01,Fashion,FALSE,active
+99,33,2K Sports,,2023-08-01,2025-03-01,Gaming,FALSE,active
+100,34,Nike,26935411.03,2023-05-01,2025-02-01,Apparel,TRUE,expired
+101,34,Visa,4201557.11,2023-03-01,2028-11-01,Finance,FALSE,active
+102,34,Gatorade,7497206.86,2023-02-01,2025-01-01,Beverages,FALSE,active
+103,35,Jordan Brand,20523817.23,2018-01-01,2027-02-01,Apparel,TRUE,active
+104,35,Hublot,,2021-02-01,2025-02-01,Watches,FALSE,active
+105,35,Procter & Gamble,5883461.48,2019-11-01,2026-02-01,Personal Care,FALSE,active
+106,36,Nike,14461748.25,2019-11-01,2026-07-01,Apparel,TRUE,active
+107,36,DraftKings,2543111.69,2019-02-01,2028-06-01,Sports Betting,FALSE,active
+108,36,Porsche,6687022.01,2020-11-01,2026-09-01,Automotive,FALSE,active
+109,37,Netflix,3295784.21,2020-04-01,2026-12-01,Entertainment,FALSE,active
+110,37,Apple,11569358.2,2019-08-01,2025-04-01,Technology,FALSE,active
+111,37,Adidas,16727157.22,2018-06-01,2019-03-01,Apparel,TRUE,terminated
+112,38,L'Oreal,5385424.88,2021-02-01,2025-01-01,Personal Care,FALSE,active
+113,38,Mercedes-Benz,,2021-09-01,2022-11-01,Automotive,FALSE,terminated
+114,38,Crypto.com,7563145.38,2021-12-01,2025-11-01,Finance,FALSE,active
+115,39,DraftKings,,2019-03-01,2027-07-01,Sports Betting,FALSE,active
+116,39,Louis Vuitton,18758689.57,2023-02-01,2024-12-01,Luxury,FALSE,terminated
+117,39,Subway,1856229.06,2019-01-01,2020-07-01,Food,FALSE,expired
+118,40,TAG Heuer,11270659.24,2023-11-01,,Watches,FALSE,active
+119,40,Wilson,,2021-06-01,2027-03-01,Sports Equipment,FALSE,active
+120,40,DraftKings,3874440.96,2023-02-01,2027-07-01,Sports Betting,FALSE,active
+121,41,Jordan Brand,28550656.66,2022-06-01,2028-10-01,Apparel,FALSE,active
+122,41,McDonald's,3146657.91,2023-12-01,2026-12-01,Food,FALSE,active
+123,41,L'Oreal,3376151.63,2019-01-01,2027-07-01,Personal Care,FALSE,active
+124,42,Dior,12824923.89,2023-07-01,2025-04-01,Luxury,FALSE,expired
+125,42,Puma,9730052.79,2020-02-01,2027-02-01,Apparel,FALSE,active
+126,42,Gillette,5105823.03,2022-01-01,2025-08-01,Personal Care,FALSE,active
+127,43,Samsung,,2019-05-01,2027-12-01,Technology,FALSE,active
+128,43,Beats by Dre,6319633.45,2021-04-01,,Technology,FALSE,active
+129,43,New Balance,6050180.55,2020-11-01,,Apparel,FALSE,active
+130,44,Hugo Boss,4519745.1,2019-07-01,2025-03-01,Fashion,FALSE,active
+131,44,FTX,2679079.92,2022-07-01,2027-08-01,Finance,FALSE,active
+132,44,Samsung,6194316.92,2019-11-01,2025-10-01,Technology,FALSE,active
+133,45,Visa,4147086.94,2020-07-01,2027-06-01,Finance,FALSE,active
+134,45,Hugo Boss,5168056.13,2019-10-01,2026-02-01,Fashion,FALSE,active
+135,45,Hublot,8862385.79,2022-06-01,2024-05-01,Watches,FALSE,expired
+136,46,Wilson,2671262.66,2020-12-01,2025-04-01,Sports Equipment,FALSE,active
+137,46,McDonald's,2255587.32,2019-06-01,2025-11-01,Food,FALSE,active
+138,46,TAG Heuer,12960716.93,2021-08-01,2026-02-01,Watches,FALSE,active
+139,47,Hublot,6031684.29,2019-03-01,2021-06-01,Watches,FALSE,expired
+140,47,TAG Heuer,11890282.1,2018-10-01,,Watches,FALSE,active
+141,47,Nike,12967080.54,2021-03-01,,Apparel,TRUE,active
+142,48,Gucci,14595168.61,2018-07-01,2028-03-01,Luxury,FALSE,active
+143,48,L'Oreal,6833216.86,2021-03-01,2026-11-01,Personal Care,FALSE,active
+144,48,Visa,4847968.83,2018-02-01,2019-07-01,Finance,FALSE,terminated
+145,49,Hublot,10098567.68,2019-11-01,2025-07-01,Watches,FALSE,active
+146,49,Mercedes-Benz,5795560.55,2021-06-01,2027-07-01,Automotive,FALSE,active
+147,49,Gatorade,4130314.84,2018-05-01,2028-09-01,Beverages,FALSE,active
+148,50,Procter & Gamble,3150470.18,2020-09-01,2025-04-01,Personal Care,FALSE,active
+149,50,Coca-Cola,7130658.54,2019-03-01,2022-06-01,Beverages,FALSE,expired
+150,50,Gucci,14455892.03,2022-01-01,2027-10-01,Luxury,FALSE,active
+151,51,L'Oreal,2717948.88,2018-02-01,2026-10-01,Personal Care,FALSE,active
+152,51,Gatorade,,2022-04-01,2024-12-01,Beverages,FALSE,expired
+153,51,Babolat,848443.82,2020-01-01,2026-10-01,Sports Equipment,FALSE,active
+154,52,Louis Vuitton,10829623.52,2020-12-01,,Luxury,FALSE,active
+155,52,TAG Heuer,4089884.86,2019-12-01,2028-11-01,Watches,FALSE,active
+156,52,Callaway,1987570.11,2022-06-01,2025-10-01,Golf Equipment,FALSE,expired
+157,53,Dior,6510371.85,2019-12-01,,Luxury,FALSE,active
+158,53,FTX,2165016.2,2022-04-01,,Finance,FALSE,active
+159,53,Samsung,5752182.31,2020-03-01,2025-12-01,Technology,FALSE,active
+160,54,EA Sports,1942594.83,2018-06-01,2019-02-01,Gaming,FALSE,terminated
+161,54,American Express,,2021-12-01,2026-07-01,Finance,FALSE,active
+162,54,Nike,8476482.04,2018-08-01,2026-03-01,Apparel,TRUE,active
+163,55,Puma,4184814.68,2018-06-01,2020-03-01,Apparel,FALSE,expired
+164,55,Apple,6499116.48,2018-06-01,,Technology,FALSE,active
+165,55,Adidas,11516514.97,2021-03-01,2025-06-01,Apparel,FALSE,active
+166,56,Gillette,2287255.57,2018-01-01,,Personal Care,FALSE,active
+167,56,Titleist,605341.8,2023-11-01,,Golf Equipment,FALSE,active
+168,56,McDonald's,889734.18,2018-08-01,2027-07-01,Food,FALSE,active
+169,57,Hugo Boss,3746532.34,2020-07-01,2021-03-01,Fashion,FALSE,terminated
+170,57,McDonald's,1224085.38,2021-05-01,2023-10-01,Food,FALSE,expired
+171,57,New Balance,1715737.79,2023-02-01,2027-09-01,Apparel,FALSE,active
+172,58,Procter & Gamble,1199410.18,2022-07-01,2028-10-01,Personal Care,FALSE,active
+173,58,Coca-Cola,,2023-01-01,2026-02-01,Beverages,FALSE,active
+174,58,Gillette,1842983.45,2019-04-01,2020-01-01,Personal Care,FALSE,expired
+175,59,Visa,2419101.09,2023-03-01,2027-06-01,Finance,FALSE,active
+176,59,New Balance,,2021-09-01,2027-05-01,Apparel,FALSE,active
+177,59,Emporio Armani,,2023-10-01,2028-02-01,Fashion,FALSE,active
+178,60,Louis Vuitton,8494487.53,2018-02-01,2025-05-01,Luxury,FALSE,active
+179,60,L'Oreal,3664380.2,2020-07-01,2028-10-01,Personal Care,FALSE,active
+180,60,Procter & Gamble,1141790.89,2019-10-01,2028-01-01,Personal Care,FALSE,active
+181,61,EA Sports,3288099.5,2020-01-01,2021-05-01,Gaming,FALSE,terminated
+182,61,Red Bull,1552993.53,2023-11-01,2026-03-01,Beverages,FALSE,active
+183,61,Under Armour,4923639.29,2020-05-01,2028-10-01,Apparel,FALSE,active
+184,62,Gatorade,4697014.82,2021-09-01,2022-01-01,Beverages,FALSE,terminated
+185,62,American Express,2312410.77,2020-12-01,2028-03-01,Finance,FALSE,active
+186,62,Pepsi,4002002.11,2019-04-01,2020-04-01,Beverages,FALSE,expired
+187,63,Puma,7540973.99,2020-06-01,2028-11-01,Apparel,FALSE,active
+188,63,Wilson,2330466.16,2021-10-01,2026-08-01,Sports Equipment,FALSE,active
+189,63,Under Armour,3268991.59,2020-12-01,,Apparel,FALSE,active
+190,64,Under Armour,5075286.57,2019-11-01,2022-04-01,Apparel,FALSE,expired
+191,64,Gucci,4395226.55,2018-11-01,2028-03-01,Luxury,FALSE,active
+192,64,L'Oreal,,2020-10-01,2021-12-01,Personal Care,FALSE,terminated
+193,65,Porsche,5561028.5,2021-05-01,2023-05-01,Automotive,FALSE,expired
+194,65,Subway,1161055.96,2021-10-01,2025-09-01,Food,FALSE,active
+195,65,Visa,3906159.27,2022-11-01,2027-05-01,Finance,FALSE,active
+196,66,Head,2479631.69,2020-05-01,,Sports Equipment,FALSE,active
+197,66,Jordan Brand,16716641.44,2022-07-01,,Apparel,FALSE,active
+198,66,EA Sports,2592643.92,2021-07-01,2025-10-01,Gaming,FALSE,active
+199,67,L'Oreal,3234339.65,2022-11-01,2027-09-01,Personal Care,FALSE,active
+200,67,Gatorade,2094953.32,2022-03-01,2023-02-01,Beverages,FALSE,terminated
+201,67,EA Sports,2518186.44,2023-09-01,2026-06-01,Gaming,FALSE,expired
+202,68,Porsche,3292190.26,2020-07-01,2021-06-01,Automotive,FALSE,terminated
+203,68,New Balance,2411957.32,2018-08-01,2025-08-01,Apparel,FALSE,active
+204,68,Coca-Cola,2601336.65,2021-09-01,2022-07-01,Beverages,FALSE,terminated
+205,69,Under Armour,5967860.98,2022-08-01,2024-12-01,Apparel,FALSE,expired
+206,69,Louis Vuitton,5114996.86,2020-11-01,2022-11-01,Luxury,FALSE,expired
+207,69,Hublot,2384266.58,2019-03-01,2026-08-01,Watches,FALSE,active
+208,70,New Balance,3017989.95,2021-08-01,2025-01-01,Apparel,FALSE,active
+209,70,Hublot,5680229.45,2020-09-01,2021-11-01,Watches,FALSE,expired
+210,70,DraftKings,757216.71,2019-12-01,2020-05-01,Sports Betting,FALSE,terminated
+211,71,Hublot,4566348.75,2018-01-01,2019-05-01,Watches,FALSE,terminated
+212,71,Rolex,6191484.18,2022-06-01,2026-06-01,Watches,TRUE,active
+213,71,FTX,2475242.72,2021-01-01,2022-12-01,Finance,FALSE,expired
+214,72,Hublot,4989494.89,2020-12-01,2025-07-01,Watches,FALSE,active
+215,72,Pepsi,2874314.53,2018-10-01,2025-11-01,Beverages,FALSE,active
+216,72,Adidas,4005174.47,2021-07-01,2027-08-01,Apparel,FALSE,active
+217,73,Emporio Armani,2043126.07,2023-09-01,2024-10-01,Fashion,FALSE,terminated
+218,73,FanDuel,1447888.07,2018-09-01,,Sports Betting,FALSE,active
+219,73,Nike,5615768.94,2019-05-01,2026-06-01,Apparel,FALSE,active
+220,74,Puma,7497997.11,2021-06-01,2022-01-01,Apparel,FALSE,expired
+221,74,Gillette,2310429.58,2022-11-01,2026-02-01,Personal Care,FALSE,active
+222,74,Babolat,705067.5,2020-11-01,2022-05-01,Sports Equipment,FALSE,expired
+223,75,McDonald's,739732.48,2018-05-01,2019-11-01,Food,FALSE,terminated
+224,75,Wilson,1556684.92,2018-01-01,2026-11-01,Sports Equipment,FALSE,active
+225,75,Under Armour,3180375.47,2022-05-01,2025-06-01,Apparel,FALSE,active
+226,76,Dior,4641401.27,2021-12-01,2028-11-01,Luxury,FALSE,active
+227,76,TAG Heuer,3333960.88,2023-01-01,2024-07-01,Watches,FALSE,expired
+228,76,BMW,3751434.93,2022-11-01,2026-10-01,Automotive,FALSE,active
+229,77,2K Sports,2711409.13,2023-03-01,2028-02-01,Gaming,FALSE,active
+230,77,DraftKings,,2023-06-01,2026-11-01,Sports Betting,FALSE,active
+231,77,Adidas,7960437.3,2022-02-01,2026-08-01,Apparel,TRUE,active
+232,78,FTX,2773329.95,2018-11-01,2021-08-01,Finance,FALSE,expired
+233,78,Louis Vuitton,10755717.67,2018-08-01,2019-04-01,Luxury,FALSE,terminated
+234,78,Gillette,1594879.17,2022-04-01,2028-07-01,Personal Care,FALSE,active
+235,79,New Balance,4304414.51,2021-08-01,2022-02-01,Apparel,FALSE,terminated
+236,79,Wilson,2959408.55,2018-02-01,2028-01-01,Sports Equipment,FALSE,active
+237,79,American Express,1050415.8,2022-10-01,2027-09-01,Finance,FALSE,active
+238,80,Porsche,5791491.55,2018-04-01,2027-09-01,Automotive,FALSE,active
+239,80,Hugo Boss,3599829.03,2020-12-01,2025-02-01,Fashion,FALSE,active
+240,80,Wilson,1365668.93,2023-05-01,,Sports Equipment,FALSE,active
+241,81,Gucci,3584829.88,2023-07-01,2027-10-01,Luxury,FALSE,active
+242,81,Babolat,769044.13,2019-08-01,2022-06-01,Sports Equipment,FALSE,expired
+243,82,Rolex,3325502.53,2023-10-01,2028-08-01,Watches,TRUE,active
+244,82,Mercedes-Benz,1971226.05,2022-12-01,2028-10-01,Automotive,FALSE,active
+245,83,TaylorMade,2352817.2,2019-02-01,2027-09-01,Golf Equipment,FALSE,active
+246,83,Dior,4744522.58,2023-04-01,2024-07-01,Luxury,FALSE,terminated
+247,84,EA Sports,2467967.98,2021-10-01,2027-12-01,Gaming,FALSE,active
+248,84,Apple,4157900.45,2022-11-01,2023-04-01,Technology,FALSE,expired
+249,85,DraftKings,1951569.77,2019-12-01,2026-09-01,Sports Betting,FALSE,active
+250,85,Apple,5966513.64,2020-09-01,2028-11-01,Technology,FALSE,active
+251,86,Titleist,1828468.13,2018-09-01,,Golf Equipment,FALSE,active
+252,86,Apple,6153423.4,2019-05-01,2027-03-01,Technology,FALSE,active
+253,87,Apple,,2021-02-01,2026-12-01,Technology,FALSE,active
+254,87,Pepsi,3433323.98,2023-05-01,2025-07-01,Beverages,FALSE,active
+255,88,Emporio Armani,,2023-05-01,2026-08-01,Fashion,FALSE,expired
+256,88,Beats by Dre,4404942.19,2023-12-01,2027-10-01,Technology,FALSE,active
+257,89,Netflix,1686605.44,2020-08-01,2023-02-01,Entertainment,FALSE,expired
+258,89,Gatorade,2154418.04,2022-02-01,2025-07-01,Beverages,FALSE,active
+259,90,McDonald's,825300.39,2018-06-01,2026-01-01,Food,FALSE,active
+260,90,Hublot,,2023-10-01,2027-08-01,Watches,FALSE,active
+261,91,Gillette,1053049.67,2022-04-01,2025-02-01,Personal Care,FALSE,expired
+262,91,2K Sports,2551142.3,2022-09-01,2025-06-01,Gaming,FALSE,active
+263,92,Pepsi,3193910.76,2019-10-01,2028-09-01,Beverages,FALSE,active
+264,92,Hugo Boss,,2023-06-01,2026-11-01,Fashion,FALSE,active
+265,93,DraftKings,2428069.43,2020-07-01,2028-05-01,Sports Betting,FALSE,active
+266,93,Red Bull,1493940.89,2020-09-01,,Beverages,FALSE,active
+267,94,Porsche,3145313.58,2018-03-01,,Automotive,FALSE,active
+268,94,Gatorade,3846172.94,2023-07-01,2026-09-01,Beverages,FALSE,active
+269,95,Visa,,2023-03-01,2028-12-01,Finance,FALSE,active
+270,95,Porsche,,2020-09-01,2026-05-01,Automotive,FALSE,active
+271,96,American Express,2040897.65,2021-11-01,2025-11-01,Finance,FALSE,active
+272,96,FanDuel,688532.63,2018-12-01,,Sports Betting,FALSE,active
+273,97,Emporio Armani,2898384.36,2021-07-01,2025-08-01,Fashion,FALSE,active
+274,97,Samsung,3177342.05,2022-05-01,2026-05-01,Technology,FALSE,active
+275,98,Porsche,,2022-03-01,2025-01-01,Automotive,FALSE,active
+276,98,Crypto.com,2879285.95,2018-05-01,2021-12-01,Finance,FALSE,expired
+277,99,2K Sports,1766574.44,2022-03-01,2023-04-01,Gaming,FALSE,expired
+278,99,Pepsi,4390916.68,2018-03-01,2025-09-01,Beverages,FALSE,active
+279,100,Gillette,,2018-04-01,2028-06-01,Personal Care,FALSE,active
+280,100,Jordan Brand,15398137.92,2020-10-01,2026-06-01,Apparel,TRUE,active
+281,101,Hugo Boss,3927103.45,2022-06-01,2023-07-01,Fashion,FALSE,terminated
+282,101,Samsung,2926333.6,2019-12-01,2028-05-01,Technology,FALSE,active
+283,102,Hublot,5691566.7,2021-08-01,2022-05-01,Watches,FALSE,terminated
+284,102,Emporio Armani,2563519.87,2023-10-01,2027-03-01,Fashion,FALSE,active
+285,103,Gatorade,4067406.16,2023-02-01,2025-10-01,Beverages,FALSE,active
+286,103,McDonald's,1676880.36,2018-09-01,2019-09-01,Food,FALSE,terminated
+287,104,Titleist,1515471.39,2021-04-01,2027-03-01,Golf Equipment,FALSE,active
+288,104,Head,1643220.99,2022-01-01,2026-10-01,Sports Equipment,FALSE,active
+289,105,TaylorMade,1837062.93,2022-11-01,2025-12-01,Golf Equipment,FALSE,expired
+290,105,Hublot,4469166.74,2019-08-01,2020-05-01,Watches,FALSE,expired
+291,106,Crypto.com,1649829.54,2020-07-01,,Finance,FALSE,active
+292,106,Coca-Cola,3015869.3,2022-11-01,2023-12-01,Beverages,FALSE,terminated
+293,107,McDonald's,1362090.09,2023-07-01,2024-10-01,Food,FALSE,terminated
+294,107,Procter & Gamble,2650674.54,2022-05-01,2026-09-01,Personal Care,FALSE,active
+295,108,2K Sports,2564580.65,2018-09-01,2020-03-01,Gaming,FALSE,expired
+296,108,Babolat,921987.07,2020-04-01,2021-03-01,Sports Equipment,FALSE,expired
+297,109,Crypto.com,4010559.48,2019-07-01,2020-12-01,Finance,FALSE,terminated
+298,109,Netflix,758674.18,2021-04-01,2026-11-01,Entertainment,FALSE,active
+299,110,Adidas,3962412.38,2019-03-01,,Apparel,FALSE,active
+300,110,Red Bull,2837138.43,2021-10-01,2025-12-01,Beverages,FALSE,active
+301,111,Apple,3612923.14,2021-08-01,2022-07-01,Technology,FALSE,expired
+302,111,New Balance,3602935.5,2019-10-01,2027-03-01,Apparel,FALSE,active
+303,112,EA Sports,,2021-07-01,2022-01-01,Gaming,FALSE,expired
+304,112,Wilson,1324931.95,2022-11-01,,Sports Equipment,FALSE,active
+305,113,Head,1799674.14,2022-09-01,2025-08-01,Sports Equipment,FALSE,active
+306,113,DraftKings,2328473.32,2018-11-01,2028-09-01,Sports Betting,FALSE,active
+307,114,Puma,4802155.08,2021-07-01,2022-10-01,Apparel,FALSE,terminated
+308,114,Callaway,2158086.82,2023-10-01,2028-03-01,Golf Equipment,FALSE,active
+309,115,Coca-Cola,1993146.67,2021-05-01,2022-12-01,Beverages,FALSE,expired
+310,115,New Balance,,2022-02-01,2025-07-01,Apparel,FALSE,active
+311,116,Beats by Dre,2767944.26,2023-10-01,2024-05-01,Technology,FALSE,terminated
+312,116,Mercedes-Benz,4492419.24,2020-10-01,2021-11-01,Automotive,FALSE,terminated
+313,117,BMW,2357038.84,2021-03-01,2022-09-01,Automotive,FALSE,terminated
+314,117,Pepsi,4130627.7,2020-10-01,2021-12-01,Beverages,FALSE,terminated
+315,118,BMW,3593996.98,2023-04-01,2026-02-01,Automotive,FALSE,active
+316,118,Hublot,4062748.44,2022-10-01,2025-03-01,Watches,FALSE,active
+317,119,FanDuel,1726117.11,2021-10-01,2025-02-01,Sports Betting,FALSE,active
+318,119,Nike,8393768.82,2023-07-01,2027-12-01,Apparel,FALSE,active
+319,120,Dior,,2023-09-01,2024-04-01,Luxury,FALSE,terminated
+320,120,FanDuel,647053.09,2022-12-01,2025-03-01,Sports Betting,FALSE,expired

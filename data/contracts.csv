@@ -1,0 +1,81 @@
+contract_id,athlete_id,team_id,start_date,end_date,base_salary_usd,signing_bonus,performance_clauses,contract_type
+1,1,40,2024-02-01,,9883827.5,1922456.59,,endorsement-linked
+2,2,42,2022-01-01,2023-04-08,22687435.08,1238823.73,,rookie
+3,3,13,2022-04-15,2027-05-26,35425511.23,7829266.3,Goal bonus: $500K per 20 goals scored,rookie
+4,4,14,2020-04-25,2023-02-03,18297455.52,4230814.42,,max
+5,5,99,2019-12-15,2024-02-13,7758006.93,3638604.53,,endorsement-linked
+6,6,99,2021-10-07,2022-01-22,12976439.65,3604491.67,$5M bonus upon winning Grand Slam,standard
+7,7,99,2022-05-15,2025-03-12,17434474.51,7031576.57,,endorsement-linked
+8,8,99,2023-11-06,2028-12-08,10719087.28,4415098.98,,endorsement-linked
+9,9,99,2021-01-08,2022-06-13,14370930.66,2898845.59,Championship bonus: $3M per title,veteran
+10,10,99,2022-07-21,2026-03-09,9887061.18,7704900.84,Injury clause: 50% pay if >30 days missed,veteran
+11,11,99,2022-10-13,2025-04-05,22833420.28,1818184.71,10% bonus if team reaches finals,standard
+12,12,41,2020-11-14,2025-02-13,18356675.03,9965092.42,Injury clause: 50% pay if >30 days missed,veteran
+13,13,27,2019-11-24,2020-11-18,31280722.99,7917388.59,10% bonus if team reaches finals,max
+14,14,99,2020-08-01,2023-09-25,11252815.82,9213650.55,Injury clause: 50% pay if >30 days missed,endorsement-linked
+15,15,99,2023-10-07,2025-06-25,10654216.25,9581497.73,Bonus $2M for MVP award; $1M per championship win,veteran
+16,16,46,2022-01-04,2025-05-08,7027380.83,8902086.39,10% bonus if team reaches finals,standard
+17,17,45,2019-09-25,2021-03-22,21634883.23,5948232.34,,max
+18,18,19,2022-04-18,2024-12-10,18964730.5,7045182.64,Appearance fee: $100K per race top 3,max
+19,19,17,2022-02-08,,5736199.1,5985293.7,$5M bonus upon winning Grand Slam,veteran
+20,20,2,2024-11-02,2026-02-02,35087239.01,1637716.15,Injury clause: 50% pay if >30 days missed,rookie
+21,21,24,2020-09-05,,13504903.48,5256756.49,$5M bonus upon winning Grand Slam,supermax
+22,22,59,2024-07-12,,35234286.19,1487540.69,,endorsement-linked
+23,23,99,2022-12-11,2023-04-07,11657311.8,5037521.93,Performance incentives tied to scoring title,supermax
+24,24,1,2020-02-15,2025-02-02,27825071.29,5865291.44,10% bonus if team reaches finals,standard
+25,25,29,2020-03-14,,35262763.79,9121985.79,Goal bonus: $500K per 20 goals scored,rookie
+26,26,31,2022-05-26,2026-05-14,29380702.63,7574547.86,,veteran
+27,27,32,2020-04-10,,30750801.26,1548618.14,Bonus $2M for MVP award; $1M per championship win,max
+28,28,27,2022-09-28,2027-03-02,38627261.61,1721003.19,10% bonus if team reaches finals,rookie
+29,29,27,2024-04-13,2025-10-08,25262167.01,1357674.96,Goal bonus: $500K per 20 goals scored,standard
+30,30,20,2023-09-11,2026-04-22,30066713.03,3148173.57,Performance incentives tied to scoring title,supermax
+31,31,18,2021-08-11,2022-01-15,26740573.94,6066942.81,10% bonus if team reaches finals,standard
+32,32,22,2023-05-05,2026-02-08,17933448.11,2419721.49,Injury clause: 50% pay if >30 days missed,veteran
+33,33,99,2024-09-01,2029-05-22,8625527.57,8903142.68,10% bonus if team reaches finals,max
+34,34,99,2024-09-05,2027-05-20,12372037.92,4085922.59,,endorsement-linked
+35,35,99,2023-08-09,2024-02-21,19825152.04,3490122.02,Championship bonus: $3M per title,standard
+36,36,51,2024-05-06,2028-09-23,19969042.16,1087027.3,Performance incentives tied to scoring title,standard
+37,37,52,2021-10-18,2023-07-05,6464010.04,4281863.64,Championship bonus: $3M per title,standard
+38,38,55,2020-11-04,2023-09-28,19223208.64,6585953.59,$5M bonus upon winning Grand Slam,rookie
+39,39,5,2020-07-01,2022-12-11,32383527.37,4705418.5,$5M bonus upon winning Grand Slam,endorsement-linked
+40,40,4,2024-02-13,2025-08-08,11985049.05,9266067.11,Injury clause: 50% pay if >30 days missed,max
+41,41,6,2020-04-01,2022-07-11,14751107.14,1624786.79,Championship bonus: $3M per title,max
+42,42,99,2022-11-27,2027-06-01,9036961.31,9733605.5,,rookie
+43,43,15,2021-01-04,2026-07-12,30499077.12,3823095.83,,veteran
+44,44,17,2023-04-09,2024-12-14,5059194.74,9330176.49,,veteran
+45,45,18,2024-12-22,2026-06-14,7449083.39,6978139.16,,max
+46,46,25,2019-12-10,2024-05-22,19293751.8,4621603.48,,max
+47,47,13,2022-11-13,2024-10-19,15533245.61,5931434.92,Injury clause: 50% pay if >30 days missed,standard
+48,48,25,2022-10-20,2025-08-15,20475592.98,2923312.61,Performance incentives tied to scoring title,supermax
+49,49,19,2021-09-22,2026-06-03,33644821.26,7760243.24,Injury clause: 50% pay if >30 days missed,endorsement-linked
+50,50,21,2020-03-01,2021-04-16,26394589.06,7916404.05,Goal bonus: $500K per 20 goals scored,supermax
+51,51,23,2023-04-23,2027-08-13,13539455.39,6904522.1,10% bonus if team reaches finals,standard
+52,52,99,2020-03-26,2025-08-02,24509202.79,9257230.13,Appearance fee: $100K per race top 3,standard
+53,53,16,2022-11-17,2027-10-11,38251386.3,9022833.33,,veteran
+54,54,20,2023-08-06,2027-08-09,31312187.53,8558765.99,,max
+55,55,16,2020-05-15,2021-12-10,13207275.23,4022627.83,10% bonus if team reaches finals,veteran
+56,56,99,2020-07-23,2022-12-07,7248009.77,4668394.33,Appearance fee: $100K per race top 3,veteran
+57,57,99,2020-07-13,,34985621.13,7890351.19,Appearance fee: $100K per race top 3,supermax
+58,58,99,2021-05-25,2025-07-18,31163048.41,5915190.79,$5M bonus upon winning Grand Slam,veteran
+59,59,99,2021-07-16,2022-07-11,28410576.72,8183280.92,Performance incentives tied to scoring title,endorsement-linked
+60,60,99,2020-10-18,2021-07-19,24753719.41,1243918.42,Goal bonus: $500K per 20 goals scored,endorsement-linked
+61,61,99,2022-03-02,2025-07-11,12408109.95,3941612.24,Injury clause: 50% pay if >30 days missed,supermax
+62,62,59,2022-05-27,2023-08-01,31215849.14,1468770.47,$5M bonus upon winning Grand Slam,max
+63,63,59,2024-01-25,2025-04-07,34373009.62,6592020.91,Performance incentives tied to scoring title,rookie
+64,64,99,2019-10-07,2023-12-09,31841433.44,2510102.29,10% bonus if team reaches finals,veteran
+65,65,99,2020-05-04,2025-01-10,25152885.49,9172235.36,Goal bonus: $500K per 20 goals scored,supermax
+66,66,99,2020-02-19,2022-02-23,32036830.97,8652639.15,10% bonus if team reaches finals,veteran
+67,67,99,2023-01-12,2028-07-22,17969980.67,5553647.11,Bonus $2M for MVP award; $1M per championship win,max
+68,68,99,2022-02-14,2025-11-27,21090877.17,2376920.34,,rookie
+69,69,99,2021-10-26,2026-08-15,20245107.26,7579235.93,Championship bonus: $3M per title,max
+70,70,99,2019-05-15,2021-08-19,26361609.65,4410903.74,Appearance fee: $100K per race top 3,standard
+71,71,99,2020-08-07,,14788047.08,6365395.07,,max
+72,72,99,2020-02-08,2024-08-18,31535762.87,7215484.06,Appearance fee: $100K per race top 3,endorsement-linked
+73,73,99,2019-02-10,2021-07-23,13515680.74,6975640.19,Appearance fee: $100K per race top 3,max
+74,74,99,2021-07-24,2026-06-12,29599922.98,3438247.84,$5M bonus upon winning Grand Slam,max
+75,75,28,2020-06-04,2025-12-06,11703934.06,7647441.88,,max
+76,76,29,2023-10-10,2024-04-10,12961910.72,2614973.89,,standard
+77,77,31,2019-01-18,2022-12-05,27325437.93,7775129.58,Bonus $2M for MVP award; $1M per championship win,standard
+78,78,28,2022-08-15,2025-03-02,13836743.67,8755506.68,10% bonus if team reaches finals,standard
+79,79,37,2019-10-21,2020-03-05,33389972.67,9542130.78,$5M bonus upon winning Grand Slam,standard
+80,80,29,2022-10-20,2027-04-25,23290038.73,5054630.18,Injury clause: 50% pay if >30 days missed,supermax
