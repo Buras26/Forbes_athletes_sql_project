@@ -1,6 +1,6 @@
 # 🏆 Forbes Athletes SQL Analytics Project
 
-A production-quality PostgreSQL dataset based on the **Forbes Top 100 Highest-Paid Athletes**.  
+A production-quality PostgreSQL dataset based on the **Forbes Top 120 Highest-Paid Athletes**.  
 Built for practicing advanced SQL concepts — JOINs, CTEs, Window Functions, Subqueries, and more.
 
 ---
@@ -51,8 +51,8 @@ athletes → earnings_yearly
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/forbes-athletes-db.git
-cd forbes-athletes-db
+git clone https://github.com/Buras26/Forbes_athletes_sql_project.git
+cd Forbes_athlethes_sql_project
 ```
 
 ### 2. Set up environment variables
