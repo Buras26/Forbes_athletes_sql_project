@@ -1,6 +1,7 @@
 # 🏆 Forbes Athletes SQL Analytics Project
 
 A production-quality PostgreSQL dataset based on the **Forbes Top 120 Highest-Paid Athletes**.  
+This Dataset created by me.
 Built for practicing advanced SQL concepts — JOINs, CTEs, Window Functions, Subqueries, and more.
 
 ---
@@ -44,50 +45,6 @@ athletes → earnings_yearly
 | social_media | 80 | Followers, engagement rates |
 | awards | 80 | Ballon d'Or, NBA MVP, Grand Slams... |
 | agent_managers | 80 | Agents and agencies |
-
----
-
-## 🚀 Quick Start
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Buras26/Forbes_athletes_sql_project.git
-cd Forbes_athlethes_sql_project
-```
-
-### 2. Set up environment variables
-```bash
-cp .env.example .env
-# Edit .env with your preferred passwords
-```
-
-### 3. Start the containers
-```bash
-docker-compose up -d
-```
-
-### 4. Open pgAdmin
-```
-URL:      http://localhost:5050
-Email:    admin@forbes.com
-Password: admin123
-```
-
-The database is **auto-initialized** on first start — all tables created and all CSV data loaded automatically.
-
----
-
-## 🔌 Connect in pgAdmin
-
-The server is pre-configured. Just enter the password when prompted:
-
-| Setting | Value |
-|---|---|
-| Host | postgres |
-| Port | 5432 |
-| Database | forbes |
-| Username | admin |
-| Password | admin123 |
 
 ---
 
